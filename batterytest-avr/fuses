@@ -1,0 +1,7 @@
+leon@t60:~/Kamworks/batterycheck/batterytest-avr$ hexdump low
+0000000 00e2                                   
+0000001
+leon@t60:~/Kamworks/batterycheck/batterytest-avr$ hexdump high
+0000000 00de                                   
+0000001
+

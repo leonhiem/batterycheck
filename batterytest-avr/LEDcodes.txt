@@ -1,0 +1,12 @@
+
+
+
+green=ON             red=OFF            ready
+green=SLOW BLINKING  red=OFF            cool down
+green=ON             red=ON             discharging
+green=OFF            red=SLOW BLINKING  charging
+green=FAST BLINKING  red=OFF            battery good
+green=OFF            red=FAST BLINKING  battery bad
+green=SLOW BLINKING  red=SLOW BLINKING  no battery or error
+
+
